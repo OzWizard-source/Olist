@@ -256,9 +256,6 @@ roman-numerals-py==3.1.0
 rope==1.13.0
 rpds-py==0.24.0
 rtree==1.4.0
-ruamel.yaml==0.18.10
-ruamel.yaml.clib==0.2.12
-ruamel-yaml-conda==0.17.21
 s3fs==2025.3.0
 scikit-image==0.25.2
 scikit-learn==1.6.1
